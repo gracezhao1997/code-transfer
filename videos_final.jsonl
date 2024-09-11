@@ -1,0 +1,50 @@
+{"name": "car11", "type": "canny", "source": "a car", "target": ["a car, autumn"],"step": 80}
+{"name": "car11", "type": "canny", "source": "a car", "target": ["a red car"],"step": 80}
+{"name": "car10", "type": "canny", "source": "a car", "target": ["a car, Vincent van Gogh style"],"step": 80}
+{"name": "car11", "type": "canny", "source": "a car", "target": ["a car, Vincent van Gogh style"],"step": 80}
+{"name": "girl7", "type": "canny", "source": "a girl", "target": ["a girl with yellow shirt"],"step": 80}
+{"name": "girl8", "type": "canny", "source": "a girl", "target": ["a girl, at night, foggy, soft cinematic lighting"],"step": 80}
+{"name": "girl8", "type": "canny", "source": "a girl", "target": ["a girl, pink eyes, exquisite and rich makeup"],"step": 80}
+{"name": "girl8", "type": "canny", "source": "a girl", "target": ["a girl, Krenz Cushart style"],"step": 80}
+{"name": "girl8", "type": "canny", "source": "a girl", "target": ["a girl, red hair"],"step": 80}
+{"name": "building1", "type": "canny", "source": "a building", "target": ["a wooden building, at night"],"step": 80}
+{"name": "demo_swan", "type": "canny", "source": "a black swan is swimming in a river", "target": ["a beautiful white swan is swimming in a river"],"step": 80}
+{"name": "demo_swan", "type": "canny", "source": "a black swan is swimming in a river", "target": ["a black swan is swimming in a river, Vincent van Gogh style"],"step": 80}
+{"name": "back2", "type": "hed", "source": "the back view of a woman with beautiful scenery", "target": ["the back view of a woman admiring beautiful scenery, Vincent van Gogh style"],"step": 300}
+{"name": "back2", "type": "hed", "source": "the back view of a woman with beautiful scenery", "target": ["the back view of a woman admiring beautiful scenery, starry sky, with stars and aurora in the sky"],"step": 300}
+{"name": "back2", "type": "hed", "source": "the back view of a woman with beautiful scenery", "target": ["the back view of a woman admiring beautiful sunrising, early morning"],"step": 300}
+{"name": "car10", "type": "hed", "source": "a car", "target": ["a red car"],"step": 300}
+{"name": "car10", "type": "hed", "source": "a car", "target": ["a car, colorful digital painting"],"step": 300}
+{"name": "car10", "type": "hed", "source": "a car", "target": ["a car, watercolor painting"],"step": 300}
+{"name": "cat4", "type": "hed", "source": "a cat", "target": ["a black cat"],"step": 300}
+{"name": "cat8", "type": "hed", "source": "a cat", "target": ["a painting of a cat, cute comic style"],"step": 300}
+{"name": "girl3", "type": "hed", "source": "a girl", "target": ["a girl, Krenz Cushart style"],"step": 300}
+{"name": "girl3", "type": "hed", "source": "a girl", "target": ["a girl with red hair"],"step": 300}
+{"name": "girl7", "type": "hed", "source": "a girl", "target": ["a girl, at night, foggy, soft cinematic lighting"],"step": 300}
+{"name": "girl7", "type": "hed", "source": "a girl", "target": ["a girl pink eyes, exquisite and rich makeup"],"step": 300}
+{"name": "mountain6", "type": "hed", "source": "a man with a hiking bag stands on the mountain", "target": ["a man on a snow mountain, realistic"],"step": 300}
+{"name": "demo_car", "type": "hed", "source": "a jeep car is moving on the road", "target": ["a jeep car is moving on the road, beautiful autumn"],"step": 300}
+{"name": "demo_car", "type": "hed", "source": "a jeep car is moving on the road", "target": ["a jeep car is moving on the road, watercolor painting"],"step": 300}
+{"name": "demo_swan", "type": "hed", "source": "a black swan is swimming in a river", "target": ["a Swarovski crystal swan is swimming in a river"],"step": 300}
+{"name": "demo_swan", "type": "hed", "source": "a black swan is swimming in a river", "target": ["a snow-white swan is swimming in a river"],"step": 300}
+{"name": "back1", "type": "depth", "source": "the back view of a woman with beautiful scenery", "target": ["the back view of a woman admiring beautiful sunrising, early morning"],"step": 500}
+{"name": "back1", "type": "depth", "source": "the back view of a woman with beautiful scenery", "target": ["the back view of a woman admiring beautiful scenery, A. J. Casson style, extremely detailed"],"step": 500}
+{"name": "back1", "type": "depth", "source": "the back view of a woman with beautiful scenery", "target": ["the back view of a woman admiring beautiful scenery, starry sky, with stars and aurora in the sky"],"step": 500}
+{"name": "cake1", "type": "depth", "source": "a cake", "target": ["a cake with romantic red roses, gloomhaven, matte painting concept art, art nouveau, beautifully backlit, swirly vibrant color lines, fantastically gaudy"],"step": 500}
+{"name": "cake1", "type": "depth", "source": "a cake", "target": ["a cake  with Cake with merengue and cherries"],"step": 500}
+{"name": "cake2", "type": "depth", "source": "a cake", "target": ["a cake with romantic pure red candlestick in shape of roses, gloomhaven, matte painting concept art, art nouveau, beautifully backlit, swirly vibrant color lines, fantastically gaudy"],"step": 500}
+{"name": "cat8", "type": "depth", "source": "a cat", "target": ["a painting of a cat, screen print, comic style"],"step": 500}
+{"name": "mountain4", "type": "depth", "source": "mountains", "target": ["burning mountain, ready for rescue, star wars, end of the world, depressing atmosphere, sci-fi"],"step": 500}
+{"name": "demo_swan", "type": "depth", "source": "a black swan is swimming in a river near", "target": ["a swan is swimming in a river, cartoon style"],"step": 500}
+{"name": "demo_car", "type": "depth", "source": "a jeep car is moving on the road", "target": ["a jeep car car is moving on the beach"],"step": 500}
+{"name": "demo_car", "type": "depth", "source": "a jeep car is moving on the road", "target": ["a jeep car car is moving on the road, snowy winter"],"step": 500}
+{"name": "dance5", "type": "pose", "source": "a person is dancing", "target": ["a panda is dancing"],"step": 1000}
+{"name": "dance5", "type": "pose", "source": "a person is dancing", "target": ["a person is dancing, Makoto Shinkai style"],"step": 1000}
+{"name": "dance9", "type": "pose", "source": "a person is dancing", "target": ["a person wearing blue jeans is dancing"],"step": 1000}
+{"name": "dance9", "type": "pose", "source": "a person is dancing", "target": ["a person is dancing, Makoto Shinkai style"],"step": 1000}
+{"name": "dance26", "type": "pose", "source": "a person is dancing", "target": ["Michael Jackson is dancing"],"step": 1000}
+{"name": "dance26", "type": "pose", "source": "a person is dancing", "target": ["a person wearing yellow shirt is dancing"],"step": 1000}
+{"name": "dance26", "type": "pose", "source": "a person is dancing", "target": ["a person is dancing, Makoto Shinkai style"],"step": 1000}
+{"name": "sport11", "type": "pose", "source": "a boy is skateboarding", "target": ["a brown bear is skateboarding"],"step": 1000}
+{"name": "sport12", "type": "pose", "source": "a boxer is hitting a punching bag", "target": ["Bruce Lee is hitting a punching bag"],"step": 1000}
+{"name": "demo_skate", "type": "pose", "source": "a man is sliding down the stairs on a plank", "target": ["a lego boy is sliding down the stairs on a plank"],"step": 1000}
